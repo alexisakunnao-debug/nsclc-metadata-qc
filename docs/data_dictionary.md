@@ -2,7 +2,7 @@
 
 ## Unit of analysis
 
-One row in `metadata_standardized.csv` is one GEO sample record—not necessarily one patient or sequencing run. The extractor reconciles actual accessions and their multiplicity against the source's declared series membership.
+One row in `metadata_standardized.csv` is one GEO sample record, not necessarily one patient or sequencing run. The extractor reconciles actual accessions and their multiplicity against the source's declared series membership.
 
 ## Source columns
 
