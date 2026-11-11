@@ -1,0 +1,4 @@
+# Core project dependencies.
+pandas>=2.2,<4
+ipykernel
+certifi
